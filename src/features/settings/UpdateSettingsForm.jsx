@@ -4,7 +4,7 @@ import Input from "../../ui/Input";
 import { useSettings } from "./useSettings";
 import Spinner from "../../ui/Spinner";
 import { useUpdateSetting } from "./useEditSetting";
-import { updateSetting } from "../../services/apiSettings";
+//import { updateSetting } from "../../services/apiSettings";
 
 function UpdateSettingsForm() {
   const {
